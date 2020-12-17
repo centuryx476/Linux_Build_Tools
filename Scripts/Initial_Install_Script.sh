@@ -9,7 +9,7 @@ timedatectl set-ntp 0
 # Install Zip
 apt-get install zip
 
-#Install rsync
+# Install rsync
 apt-get install rsync
 
 # Install Updates
